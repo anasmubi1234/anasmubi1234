@@ -76,18 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=anasmubi1234&theme=algolia&no-frame=false&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
